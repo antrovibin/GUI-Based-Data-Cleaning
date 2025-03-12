@@ -8,7 +8,7 @@ The Data Cleaning Tool provides two different ways to clean and preprocess datas
 
 Both tools support CSV and Excel file formats and provide functionalities such as removing columns, handling missing values, changing data types, and generating data reports.
 
-### Features
+# Features
 ## Streamlit-based Web App
 
 **Data Report:**
