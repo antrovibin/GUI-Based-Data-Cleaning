@@ -46,6 +46,7 @@ Both tools support CSV and Excel file formats and provide functionalities such a
 ```bash
 git clone https://github.com/antrovibin/data-cleaning-tool.git
 cd data-cleaning-tool
+```
 
 ### Usage
 ## Running the Streamlit Web App
@@ -54,15 +55,18 @@ cd data-cleaning-tool
 ```bash
 streamlit run streamlit_data_cleaning.py
 This will open the web-based interface in your browser, allowing you to upload and clean datasets.
+```
 
 2. Running the CLI-based Tool
 Use the following command to clean a dataset using the terminal:
 ```bash
 python3 data_cleaning_tool.py --file "/path/to/input.csv" --output "/path/to/output.csv" --format csv
+```
 
 Example:
 ```bash
 python3 data_cleaning_tool.py --file "./data/uncleaned.csv" --output "./data/cleaned.csv" --format csv
+```
 
 ### Dependencies
 Dependencies
