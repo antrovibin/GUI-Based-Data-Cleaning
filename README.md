@@ -48,7 +48,7 @@ git clone https://github.com/antrovibin/data-cleaning-tool.git
 cd data-cleaning-tool
 ```
 
-### Usage
+# Usage
 ## Running the Streamlit Web App
 
 1. Run the following command in the project directory:
@@ -68,7 +68,7 @@ Example:
 python3 data_cleaning_tool.py --file "./data/uncleaned.csv" --output "./data/cleaned.csv" --format csv
 ```
 
-### Dependencies
+# Dependencies
 Dependencies
 
 1. Python 3.x
